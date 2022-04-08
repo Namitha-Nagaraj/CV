@@ -1,5 +1,7 @@
 # CV
 
+<img src="https://user-images.githubusercontent.com/103285098/162526387-4683720a-6bbf-412b-962b-d6fed406c0a8.JPG" width="150" height="100">
+
 Hi, I am Namitha Nagaraj
 
 I believe that I have the ability to create a positive vibe in the office environment. I also have confidence to face issues and resolve them accordingly. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements. Enthusiastic and eager to contribute on team success through hard work, attention and excellent organizational skills. Good leadership skills and operational excellence and organizational development with keen understanding of elements on business.
@@ -53,36 +55,50 @@ I believe that I have the ability to create a positive vibe in the office enviro
      -> Customer support for technical issues.
      
      -> Communication and co-ordination with the internal department.
+     
+## SKILLS
 
+   - Online reputation monitoring
+   - Online platform knowledge
+   - Reporting
+   - Managing team
+   - Social listening
+   - Competitor analysis
+   - Presentation Skills
+   
+## EDUCATION
 
-### Markdown
+- 2012 – 2015 : Diploma: Computer Science at Indira Shiva Rao Polytechnic, Kadiyali, Udupi
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2010        : 10th Standard (High School) at St. Mary’s English Medium School, Udupi
 
-```markdown
-Syntax highlighted code block
+## CERTIFICATIONS
 
-# About me
-## Header 2
-### Header 3
+- 2020        : Pursuing Digital Marketing and Content Marketing course
 
-- Bulleted
-- List
+## CTC
 
-1. Numbered
-2. List
+   Current CTC : 3.6 PA
+  
+   Expected CTC: 6 PA
+  
+## LANGUAGES
 
-**Bold** and _Italic_ and `Code` text
+ - English
+ - Kannada
+ - Tulu
+ 
+## PERSONAL INFORMATION
 
-[Link](url) and ![Image](src)
-```
+ - DOB                : 08 - 05 - 1995
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ - Marital Status     : Married
 
-### Jekyll Themes
+ - Present Address    : 004, 1st Floor, Shri Balaji Residency,
+                        2nd Cross, Vivekananda Nagar,
+                        Kathriguppe Main road, BSK 3rd Stage,
+                        Bengaluru - 560085
+ 
+ 
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Namitha-Nagaraj/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
