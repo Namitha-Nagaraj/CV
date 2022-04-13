@@ -79,9 +79,9 @@ I believe that I have the ability to create a positive vibe in the office enviro
 
 ## CTC
 
-   Current CTC : 3.6 PA
+   Current CTC  : 3.6 PA
   
-   Expected CTC: 6 PA
+   Expected CTC : 6 PA
   
 ## LANGUAGES
 
@@ -91,14 +91,14 @@ I believe that I have the ability to create a positive vibe in the office enviro
  
 ## PERSONAL INFORMATION
 
- - DOB                : 08 - 05 - 1995
+ - DOB                 : 08 - 05 - 1995
 
- - Marital Status     : Married
+ - Marital Status      : Married
 
- - Present Address    : 004, 1st Floor, Shri Balaji Residency,
-                        2nd Cross, Vivekananda Nagar,
-                        Kathriguppe Main road, BSK 3rd Stage,
-                        Bengaluru - 560085
+ - Present Address     : 004, 1st Floor, Shri Balaji Residency,
+                         2nd Cross, Vivekananda Nagar,
+                         Kathriguppe Main road, BSK 3rd Stage,
+                         Bengaluru - 560085
  
  
  
