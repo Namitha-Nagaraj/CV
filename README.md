@@ -1,4 +1,4 @@
-<img src="https://github.com/Namitha-Nagaraj/CV/blob/13a0e947a900849e5720593d8f5fc039e389c1a1/_MG_3658.JPG" width="150" height="100">
+<img src="_MG_3658.JPG" width="150" height="100">
 
 Hi, I am Namitha Nagaraj
 
