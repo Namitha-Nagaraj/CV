@@ -9,7 +9,26 @@ I believe that I have the ability to create a positive vibe in the office enviro
 
 ## WORK HISTORY
 
-- 2021-01 – Present : **Asst. Manager ORM at Macavv Media Pvt Ltd, Bangalore, Karnataka**
+- 2022-06 – Present : **Asst. Manager ORM at Zolvit (Formerly Vakilsearch), Bangalore, Karnataka**
+
+  -> Uploading posts on social media regularly with relevant hashtags after checking for relevant keywords.
+  
+  -> Sharing the requirements for the creatives and content to the relevant team for upcoming posts. 
+  
+  -> Creating the event and organizing webinars with the speakers.
+  
+  -> Responding to the reviews and comments on social media platforms, i.e., Facebook, Twitter, Instagram, MouthShut, and TrustPilot and escalating the same if              required.
+  
+  -> Uploading the videos/shorts/community posts on YouTube by adding the relevant hashtags and tags for a good reach.
+  
+  -> Co-coordinating with the internal team, marketing head and CEO regularly for the improvisation on social media.
+  
+  -> Preparing the social media calendar weekly-wise.
+  
+  -> Regularly checking on news articles for video content.
+  
+
+- 2021-01 – 2022-04 : **Asst. Manager ORM at Macavv Media Pvt Ltd, Bangalore, Karnataka**
 
      -> Monitoring Client’s social media platforms and reporting the same 
          based on the priority.
