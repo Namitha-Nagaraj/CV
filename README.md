@@ -1,4 +1,5 @@
-<_MG_3658.JPG" width="150" height="100">
+<img src = "https://user-images.githubusercontent.com/103285098/192531560-4d0b8286-519d-4d26-8372-1b7d92569914.JPG" width="150" height="100">
+
 
 Hi, I am Namitha Nagaraj
 
