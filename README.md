@@ -1,5 +1,6 @@
 # CV
 
+<img src="https://github.com/Namitha-Nagaraj/CV/blob/13a0e947a900849e5720593d8f5fc039e389c1a1/_MG_3658.JPG" width="150" height="100">
 <img src="https://user-images.githubusercontent.com/103285098/162526387-4683720a-6bbf-412b-962b-d6fed406c0a8.JPG" width="150" height="100">
 
 Hi, I am Namitha Nagaraj
