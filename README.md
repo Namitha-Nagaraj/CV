@@ -1,7 +1,6 @@
 # CV
 
 <img src="https://github.com/Namitha-Nagaraj/CV/blob/13a0e947a900849e5720593d8f5fc039e389c1a1/_MG_3658.JPG" width="150" height="100">
-<img src="https://user-images.githubusercontent.com/103285098/162526387-4683720a-6bbf-412b-962b-d6fed406c0a8.JPG" width="150" height="100">
 
 Hi, I am Namitha Nagaraj
 
@@ -99,9 +98,9 @@ I believe that I have the ability to create a positive vibe in the office enviro
 
 ## CTC
 
-   Current CTC  : 3.6 PA
+   Current CTC  : 5 PA
   
-   Expected CTC : 6 PA
+   Expected CTC : 9 PA
   
 ## LANGUAGES
 
