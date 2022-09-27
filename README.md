@@ -1,5 +1,3 @@
-# CV
-
 <img src="https://github.com/Namitha-Nagaraj/CV/blob/13a0e947a900849e5720593d8f5fc039e389c1a1/_MG_3658.JPG" width="150" height="100">
 
 Hi, I am Namitha Nagaraj
@@ -78,13 +76,14 @@ I believe that I have the ability to create a positive vibe in the office enviro
      
 ## SKILLS
 
-   - Online reputation monitoring
-   - Online platform knowledge
+   - Online Reputation Monitoring
+   - Online Platform Knowledge
    - Reporting
-   - Managing team
-   - Social listening
-   - Competitor analysis
+   - Managing Team
+   - Social Listening
+   - Competitor Analysis
    - Presentation Skills
+   - Social Media
    
 ## EDUCATION
 
