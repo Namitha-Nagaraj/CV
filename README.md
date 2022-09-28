@@ -1,7 +1,7 @@
 <img src = "https://user-images.githubusercontent.com/103285098/192531560-4d0b8286-519d-4d26-8372-1b7d92569914.JPG" width="150" height="100">
 
 
-Hi, I am Namitha Nagaraj
+Hi, I am **Namitha Nagaraj
 
 I believe that I have the ability to create a positive vibe in the office environment. I also have confidence to face issues and resolve them accordingly. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements. Enthusiastic and eager to contribute on team success through hard work, attention and excellent organizational skills. Good leadership skills and operational excellence and organizational development with keen understanding of elements on business.
 
@@ -101,10 +101,6 @@ I believe that I have the ability to create a positive vibe in the office enviro
    Current CTC  : 5 PA
   
    Expected CTC : 9 PA
-  
-## CONTACT       
- 
-- Email              : namithanagraj8@gmail.com
 
 ## LANGUAGES
 
@@ -122,6 +118,10 @@ I believe that I have the ability to create a positive vibe in the office enviro
                          2nd Cross, Vivekananda Nagar,
                          Kathriguppe Main road, BSK 3rd Stage,
                          Bengaluru - 560085
+                         
+ ## CONTACT       
+ 
+- Email              : namithanagraj8@gmail.com               
                          
 
                        
