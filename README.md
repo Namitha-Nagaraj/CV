@@ -89,13 +89,13 @@ I believe that I have the ability to create a positive vibe in the office enviro
    
 ## EDUCATION:
 
-- 2012 – 2015 : Diploma: Computer Science at Indira Shiva Rao Polytechnic, Kadiyali, Udupi
+- 2012 – 2015 : **Diploma: Computer Science** at Indira Shiva Rao Polytechnic, Kadiyali, Udupi
 
-- 2010        : 10th Standard (High School) at St. Mary’s English Medium School, Udupi
+- 2010        : **10th Standard (High School)** at St. Mary’s English Medium School, Udupi
 
 ## CERTIFICATIONS:
 
-- 2020        : Pursuing Digital Marketing and Content Marketing course
+- 2020        : **Pursuing Digital Marketing and Content Marketing course**
 
 ## CTC:
 
