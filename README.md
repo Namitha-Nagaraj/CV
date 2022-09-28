@@ -6,7 +6,7 @@ Hi, I am **Namitha Nagaraj
 I believe that I have the ability to create a positive vibe in the office environment. I also have confidence to face issues and resolve them accordingly. Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational improvements. Enthusiastic and eager to contribute on team success through hard work, attention and excellent organizational skills. Good leadership skills and operational excellence and organizational development with keen understanding of elements on business.
 
 
-## WORK HISTORY
+## WORK HISTORY:
 
 - 2022-06 – Present : **Asst. Manager ORM at Zolvit (Formerly Vakilsearch), Bangalore, Karnataka**
 
@@ -75,7 +75,7 @@ I believe that I have the ability to create a positive vibe in the office enviro
      
      -> Communication and co-ordination with the internal department.
      
-## SKILLS
+## SKILLS:
 
    - Online Reputation Monitoring
    - Online Platform Knowledge
@@ -86,29 +86,29 @@ I believe that I have the ability to create a positive vibe in the office enviro
    - Presentation Skills
    - Social Media
    
-## EDUCATION
+## EDUCATION:
 
 - 2012 – 2015 : Diploma: Computer Science at Indira Shiva Rao Polytechnic, Kadiyali, Udupi
 
 - 2010        : 10th Standard (High School) at St. Mary’s English Medium School, Udupi
 
-## CERTIFICATIONS
+## CERTIFICATIONS:
 
 - 2020        : Pursuing Digital Marketing and Content Marketing course
 
-## CTC
+## CTC:
 
    Current CTC  : 5 PA
   
    Expected CTC : 9 PA
 
-## LANGUAGES
+## LANGUAGES:
 
  - English
  - Kannada
  - Tulu
  
-## PERSONAL INFORMATION
+## PERSONAL INFORMATION:
 
  - DOB                 : 08 - 05 - 1995
 
@@ -119,7 +119,7 @@ I believe that I have the ability to create a positive vibe in the office enviro
                          Kathriguppe Main road, BSK 3rd Stage,
                          Bengaluru - 560085
                          
- ## CONTACT       
+ ## CONTACT:      
  
 - Email              : namithanagraj8@gmail.com               
                          
