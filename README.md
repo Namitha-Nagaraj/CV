@@ -102,6 +102,10 @@ I believe that I have the ability to create a positive vibe in the office enviro
   
    Expected CTC : 9 PA
   
+## CONTACT       
+ 
+- Email              : namithanagraj8@gmail.com
+
 ## LANGUAGES
 
  - English
@@ -119,12 +123,8 @@ I believe that I have the ability to create a positive vibe in the office enviro
                          Kathriguppe Main road, BSK 3rd Stage,
                          Bengaluru - 560085
                          
- ## CONTACT       
- 
- - Email              : namithanagraj8@gmail.com
+
                        
- 
- 
  
 
 
