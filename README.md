@@ -95,7 +95,9 @@ I believe that I have the ability to create a positive vibe in the office enviro
 
 ## CERTIFICATIONS:
 
-- 2020        : **Masters in Digital Marketing course**
+- 2022        : **Diploma in Digital Marketing Certification Program**
+
+- 2022        : **Social Media Certification Program**
 
 ## CTC:
 
